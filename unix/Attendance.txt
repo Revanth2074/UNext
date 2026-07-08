@@ -1,0 +1,10 @@
+101,John,IT,Present,5000
+102,Alice,HR,Absent,4500
+103,David,Finance,Present,6000
+104,Sophia,IT,Present,5500
+105,James,HR,Absent,4000
+106,Emma,Finance,Present,7000
+107,Robert,IT,Present,6500
+108,Olivia,HR,Present,4800
+109,Daniel,Finance,Absent,5200
+110,William,IT,Present,7200

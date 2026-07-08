@@ -1,0 +1,10 @@
+101,Python Programming,Programming,Available,650
+102,Linux Basics,Programming,Available,500
+103,Data Science Essentials,Data Science,OutOfStock,850
+104,Java Fundamentals,Programming,Available,700
+105,Machine Learning,Data Science,Available,950
+106,Cloud Computing,Cloud,OutOfStock,1200
+107,AWS for Beginners,Cloud,Available,1100
+108,Docker Complete Guide,DevOps,Available,900
+109,Kubernetes Handbook,DevOps,OutOfStock,1300
+110,Git and GitHub,DevOps,Available,550
