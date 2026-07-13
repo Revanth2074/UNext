@@ -1,0 +1,5 @@
+order_id,date,status,category,amount
+ORD201,2025-06-10,COMPLETED,grocery,1800.00
+ORD202,2025-06-10,FAILED,grocery,900.00
+ORD203,2025-06-10,REFUNDED,grocery,250.00
+ORD204,2025-06-10,PENDING,grocery,1200.00
