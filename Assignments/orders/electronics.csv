@@ -1,0 +1,6 @@
+order_id,date,status,category,amount
+ORD001,2025-06-10,COMPLETED,electronics,4500.00
+ORD002,2025-06-10,FAILED,electronics,1200.00
+ORD003,2025-06-10,PENDING,electronics,8900.00
+ORD004,2025-06-10,REFUNDED,electronics,350.00
+ORD005,2025-06-10,COMPLETED,electronics,2750.00

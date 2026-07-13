@@ -1,0 +1,5 @@
+order_id,date,status,category,amount
+ORD101,2025-06-10,COMPLETED,clothing,2750.00
+ORD102,2025-06-10,FAILED,clothing,1800.00
+ORD103,2025-06-10,REFUNDED,clothing,550.00
+ORD104,2025-06-10,COMPLETED,clothing,3100.00
