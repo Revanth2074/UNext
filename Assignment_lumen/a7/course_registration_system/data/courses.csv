@@ -1,0 +1,6 @@
+course_id,course_name,instructor,seats_available
+C101,Python Programming,Dr.Kumar,30
+C102,Data Science Fundamentals,Dr.Smith,25
+C103,Machine Learning Basics,Dr.Andrew,20
+C104,Web Development,Dr.Ravi,15
+C105,Database Systems,Dr.John,10

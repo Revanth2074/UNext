@@ -1,0 +1,6 @@
+student_id,name,email,enrolled_courses
+S001,Ravi Kumar,ravi@gmail.com,C101
+S002,Meena Priya,meena@gmail.com,"C102,C103"
+S003,Arjun Raj,arjun@gmail.com,
+S004,Divya S,divya@gmail.com,C104
+S005,Karthik R,karthik@gmail.com,C105
