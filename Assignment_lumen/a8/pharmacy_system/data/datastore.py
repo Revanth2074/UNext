@@ -1,0 +1,5 @@
+datastore = {
+    "customers": {},
+    "medicines": {},
+    "sales": {}
+}
