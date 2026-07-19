@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "username": "john",
+      "content": "Learning JavaScript is fun!",
+      "category": "Programming",
+      "likes": 121,
+      "hashtags": "#javascript"
+    },
+    {
+      "id": "2",
+      "username": "emma",
+      "content": "Morning workout completed successfully!",
+      "category": "Health & Fitness",
+      "likes": 115,
+      "hashtags": "#fitness"
+    },
+    {
+      "id": "3",
+      "username": "alex",
+      "content": "AI is changing the future.",
+      "category": "Technology",
+      "likes": 220,
+      "hashtags": "#AI"
+    },
+    {
+      "username": "sophia",
+      "content": "Node.js APIs are awesome!",
+      "category": "Programming",
+      "likes": 0,
+      "hashtags": "#nodejs",
+      "id": "eon4fywV79s"
+    },
+    {
+      "username": "sophia",
+      "content": "Node.js APIs are awesome!",
+      "category": "Programming",
+      "likes": 0,
+      "hashtags": "#nodejs",
+      "id": "6Qfw4PrcZUE"
+    },
+    {
+      "username": "sophia",
+      "content": "Node.js APIs are awesome!",
+      "category": "Programming",
+      "likes": 0,
+      "hashtags": "#nodejs",
+      "id": "KfsQlqhh3Yg"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
