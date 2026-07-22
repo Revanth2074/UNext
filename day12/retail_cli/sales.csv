@@ -1,0 +1,12 @@
+sku,qty_sold,discount_pct,channel
+SKU-ELEC1001,2,10.0,online
+SKU-ELEC1002,6,0.0,in-store
+SKU-CLOT2001,5,15.0,online
+SKU-TOYS3001,3,0.0,online
+SKU-ELEC1001,3,invalid_discount,online
+SKU-CLOT2001,4,20.0,in-store
+SKU-ELEC1001,1,0.0,online
+SKU-CLOT2001,2,5.0,online
+SKU-ELEC1001,1,0.0,in-store
+SKU-CLOT2001,1,0.0,online
+SKU-TOYS4001,1,10.0,in-store

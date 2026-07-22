@@ -1,0 +1,50 @@
+{
+    "report_metadata": {
+        "generated_at": "2026-07-22T14:23:59.186322",
+        "reorder_threshold": 10
+    },
+    "file_summary": {
+        "total_rows_processed": 11,
+        "valid_rows": 10,
+        "malformed_rows": 1,
+        "malformed_ratio": 0.0909
+    },
+    "financial_summary": {
+        "total_revenue": 859.09,
+        "revenue_by_category": {
+            "Electronics": 652.19,
+            "Clothing": 206.9
+        },
+        "revenue_by_channel": {
+            "online": 215.7,
+            "in-store": 643.39
+        }
+    },
+    "stock_alerts": {
+        "oversold_skus": [
+            {
+                "sku": "SKU-ELEC1002",
+                "name": "Mechanical Keyboard",
+                "stock_qty": 5,
+                "qty_sold": 6,
+                "oversold_by": 1
+            }
+        ],
+        "low_stock_skus": [
+            "SKU-CLOT2002",
+            "SKU-ELEC1002"
+        ]
+    },
+    "anomalies": {
+        "unknown_skus_sold": [
+            "SKU-TOYS3001"
+        ],
+        "category_mismatches": [
+            {
+                "sku": "SKU-TOYS4001",
+                "declared_category": "Electronics",
+                "sku_code": "TOYS"
+            }
+        ]
+    }
+}

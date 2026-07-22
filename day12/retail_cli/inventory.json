@@ -1,0 +1,37 @@
+[
+    {
+        "sku": "SKU-ELEC1001",
+        "name": "Wireless Mouse",
+        "unit_price": 25.99,
+        "stock_qty": 50,
+        "category": "Electronics"
+    },
+    {
+        "sku": "SKU-ELEC1002",
+        "name": "Mechanical Keyboard",
+        "unit_price": 89.99,
+        "stock_qty": 5,
+        "category": "Electronics"
+    },
+    {
+        "sku": "SKU-CLOT2001",
+        "name": "Cotton T-Shirt",
+        "unit_price": 19.99,
+        "stock_qty": 100,
+        "category": "Clothing"
+    },
+    {
+        "sku": "SKU-CLOT2002",
+        "name": "Denim Jeans",
+        "unit_price": 49.99,
+        "stock_qty": 8,
+        "category": "Clothing"
+    },
+    {
+        "sku": "SKU-TOYS4001",
+        "name": "Action Figure",
+        "unit_price": 14.99,
+        "stock_qty": 50,
+        "category": "Electronics"
+    }
+]

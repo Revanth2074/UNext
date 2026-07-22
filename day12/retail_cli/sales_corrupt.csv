@@ -1,0 +1,7 @@
+sku,qty_sold,discount_pct,channel
+SKU-ELEC1001,2,10.0,online
+SKU-ELEC1002,1,0.0,in-store
+SKU-CLOT2001,invalid_qty,15.0,online
+SKU-CLOT2001,4,20.0,in-store
+SKU-ELEC1001,1,invalid_discount,online
+SKU-CLOT2001,1,0.0,online
